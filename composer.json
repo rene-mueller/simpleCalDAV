@@ -1,9 +1,8 @@
 {
-  "name": "thecsea/simple-caldav-client",
+  "name": "rene-mueller/simple-caldav-client",
   "type": "library",
   "keywords": ["caldav","client", "simple"],
   "description": "A simple and complete php caldav client",
-  "homepage": "http://www.thecsea.it",
   "minimum-stability": "stable",
   "license": "GPL-2.0",
   "authors": [
